@@ -71,7 +71,7 @@ See Appendix I
 
 ## APPENDIX I
 
-<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<table border="1" width="100%" cellspacing="0" cellpadding="0" style="width:100%;">
     <tbody>
     <tr>
     <td width="126">
