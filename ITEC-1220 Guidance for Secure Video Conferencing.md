@@ -73,7 +73,11 @@ See Appendix I
 
 | Product         | Control Access | Connect Securely | File/Screen/Recording | Update Versions |
 | --------------- | -------------- | ---------------- | --------------------- | --------------- |
-| Adobe Connect   |                |                  |                       |                 |  |
+| Adobe Connect   | - Manage a meeting
+- Invite attendees and grant or deny access
+- Modify participant list
+- Remove individuals from a group
+               |                  |                       |                 |  |
 | Cisco WebEx     |                |                  |                       |                 |  |
 | GoToMeeting     |                |                  |                       |                 |  |
 | GoToWebinar     |                |                  |                       |                 |  |
