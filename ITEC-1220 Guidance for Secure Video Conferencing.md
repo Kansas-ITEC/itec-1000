@@ -71,15 +71,11 @@ See Appendix I
 
 ## APPENDIX I
 
-| Product         | Control Access | Connect Securely | File/Screen/Recording | Update Versions |
-| --------------- | -------------- | ---------------- | --------------------- | --------------- |
-| Adobe Connect   | - Manage a meeting
-- Invite attendees and grant or deny access
-- Modify participant list
-- Remove individuals from a group
-               |                  |                       |                 |  |
-| Cisco WebEx     |                |                  |                       |                 |  |
-| GoToMeeting     |                |                  |                       |                 |  |
-| GoToWebinar     |                |                  |                       |                 |  |
-| Microsoft Teams |                |                  |                       |                 |  |
-| Slack Zoom      |                |                  |                       |                 |  |
+| Product         | Control Access                                                                                                              | Connect Securely | File/Screen/Recording | Update Versions |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------- | --------------- |
+| Adobe Connect   | Manage a meeting<br>Invite attendees and grant or deny access<br>Modify participant list<br>Remove individuals from a group |                  |                       |                 |
+| Cisco WebEx     |                                                                                                                             |                  |                       |                 |
+| GoToMeeting     |                                                                                                                             |                  |                       |                 |
+| GoToWebinar     |                                                                                                                             |                  |                       |                 |
+| Microsoft Teams |                                                                                                                             |                  |                       |                 |
+| Slack Zoom      |                                                                                                                             |                  |                       |                 |
