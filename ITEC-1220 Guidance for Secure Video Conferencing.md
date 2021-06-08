@@ -1,6 +1,6 @@
 **_THIS DOCUMENT IS A DRAFT_**
 
-# ITEC-1220-G: Guidance for Securing Video Conferencing
+# ITEC-1220-G: Guidance for Secure Video Conferencing
 ## PURPOSE
 To serve as a recommendation to state entities and establish guidelines with cybersecurity principles and practices that individuals and organizations can follow to video conference more securely.  Although these guidelines are providing this general risk advisory guidance, individuals and organizations are responsible for their own risk assessments of specific systems and software. For optimum risk mitigation, organizations should implement measures at both the organizational and user levels.
 ## BACKGROUND
