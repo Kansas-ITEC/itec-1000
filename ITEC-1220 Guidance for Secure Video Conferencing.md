@@ -22,6 +22,7 @@ Once niche products, many of these tools were meant for a subset of the business
 - Avoid using public hotspots and networks.
 - Only use video conferencing tools approved by your organization for business use.
 - Enable security and encryption settings on video conferencing tools; these features are not always enabled by default.
+- Ensure that video streaming and collaboration data is not routed through servers outside of the United States.
 
 ### CONTROL ACCESS
 **Risk**: Uncontrolled access to conversations may result in disruption or compromise of your conversations, and exposure of sensitive information.
@@ -44,6 +45,7 @@ Once niche products, many of these tools were meant for a subset of the business
 **Tips**: Here are some simple tips for controlling file and screen sharing.
 - Toggle settings to limit the types of files that can be shared (e.g., not allowing .exe files). 
 - When recording meetings, make sure participants are aware and that the meeting owner knows how to access and secure the recording. Consider saving locally rather than in the cloud. Change default file names when saving recordings. Consult with your organizational or in-house counsel regarding laws applicable to recording video conferences. 
+- Ensure that recordings and documents are not stored at a location outside of the United States.  State of Kansas data should reside within the United States.
 - Do not allow other to record meetings without your approval.
 - Consider sensitivity of data before exposing it via screen share or uploading it during video conferences. Do not discuss information that you would not discuss over regular telephone lines.
 
