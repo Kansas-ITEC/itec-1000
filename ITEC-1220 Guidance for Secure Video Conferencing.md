@@ -1,4 +1,5 @@
-**_THIS DOCUMENT IS A DRAFT_**
+**POLICY IS ACTIVE**
+https://ebit.ks.gov/itec/resources/policies/itec-1220-g-guidance-for-secure-video-conferencing
 
 # ITEC-1220-G: Guidance for Secure Video Conferencing
 ## PURPOSE
